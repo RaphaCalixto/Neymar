@@ -1,0 +1,11 @@
+.DS_Store
+Thumbs.db
+work/hero/_work/
+__pycache__/
+
+# env & credentials
+.env
+.env*.local
+.env.production
+*.pem
+*.key
